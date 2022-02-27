@@ -1,0 +1,6 @@
+[submodule "ui"]
+	path = ui
+	url = https://github.com/httptoolkit/httptoolkit-ui.git
+[submodule "server"]
+	path = server
+	url = https://github.com/httptoolkit/httptoolkit-server.git
